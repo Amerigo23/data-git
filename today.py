@@ -8,4 +8,4 @@ def my_name_is():
 def my_buddy_is():
     """returns my buddy's name"""
     return "nruth"
-pass  # YOUR CODE HERE
+# YOUR CODE HERE
